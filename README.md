@@ -49,7 +49,7 @@ The robot is divided into four core modules:
 
 ---
 
-## 🖼️ Prototype Images
+##  Prototype Images
 
 
 |------------------|-----------|
@@ -69,7 +69,7 @@ The robot is divided into four core modules:
 
 
 
-## 🎓 Research Context
+##  Research Context
 ABROB is part of an ongoing academic research effort focused on:  
 - Multi-modal sensor fusion  
 - Real-time robotic interaction  
@@ -79,7 +79,7 @@ Detailed algorithms & code will be released following publication.
 
 ---
 
-## 📌 Status
+##  Status
 - Prototype: **Working**  
 - Audio localization: **Tested successfully**  
 - Vision tracking: **Functional**  
