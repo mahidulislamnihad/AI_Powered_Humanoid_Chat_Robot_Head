@@ -20,7 +20,7 @@ The repo contains a overview and prototype images.
 
 ---
 
-## 🧠 System Overview
+##  System Overview
 
 The robot is divided into four core modules:
 
@@ -53,10 +53,8 @@ The robot is divided into four core modules:
 
 |  |  |
 |------------------|-----------|
-| <img src="image/Robot_Head.jpg" width="300"> | <img src="images/head_side.jpg" width="300"> |
-
-### Internal Servo + Driver Setup  
-<img src="images/internal_servo_setup.jpg" width="350">
+| <img src="image/Robot_Head.jpg" width="350"> | <img src="images/head_side.jpg" width="300"> |  
+<img src="image/Robot_Head_1.jpg" width="350">
 
 ---
 
