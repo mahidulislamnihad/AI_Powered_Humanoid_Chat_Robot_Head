@@ -5,11 +5,11 @@ ABROB ( AI-Powered Humanoid Chat Robot) is a humanoid robot head prototype capab
 
 > ⚠ **Note:** Source code is intentionally omitted.  
 This project is under active academic research and paper preparation.  
-The repo contains architecture, project workflow, system documentation, and prototype images.
+The repo contains a overview and prototype images.
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 - **Sound direction detection** using dual-mic FFT analysis  
 - **Vision-based face tracking** using Python model  
 - **Naturalistic mechanical movement** (eyes + neck) via PCA9685  
@@ -53,7 +53,7 @@ The robot is divided into four core modules:
 
 |  |  |
 |------------------|-----------|
-| <img src="images/head_front.jpg" width="300"> | <img src="images/head_side.jpg" width="300"> |
+| <img src="image/Robot_Head.jpg" width="300"> | <img src="images/head_side.jpg" width="300"> |
 
 ### Internal Servo + Driver Setup  
 <img src="images/internal_servo_setup.jpg" width="350">
