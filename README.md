@@ -53,7 +53,7 @@ The robot is divided into four core modules:
 
 
 |------------------|-----------|
-| <img src="image/Robot_Head.jpg" width="300"> |  <img src="image/Robot_Head_1.jpg" width="300"> |
+| <img src="image/Robot_Head.jpg" width="350"> |  <img src="image/Robot_Head_1.jpg" width="300"> |
 
 ---
 
