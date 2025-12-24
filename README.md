@@ -6,7 +6,7 @@ ABROB ( AI-Powered Humanoid Chat Robot) is a humanoid robot head prototype capab
 > ⚠ **Note:** Source code is intentionally omitted.  
 This project is under active academic research and paper preparation.  
 The repo contains a overview and prototype images.
-
+Preprint is available 
 ---
 
 ##  Key Features
