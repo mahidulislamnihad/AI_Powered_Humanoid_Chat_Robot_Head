@@ -82,7 +82,7 @@ Detailed algorithms & code will be released following publication.
 - Audio localization: **Tested successfully**  
 - Vision tracking: **Functional**  
 - Behavior engine: **Stable**  
-- Research paper: **In preparation**
+- Research paper: **Preprint has been posted**
 
 ---
 
