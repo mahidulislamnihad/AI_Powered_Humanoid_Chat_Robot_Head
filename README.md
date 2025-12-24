@@ -4,9 +4,9 @@
 ABROB ( AI-Powered Humanoid Chat Robot) is a humanoid robot head prototype capable of **listening**, **seeing**, and **reacting** through audio and vision-driven behavior. It combines Python-based perception modules with Arduino-based servo actuation to simulate natural human-like interactions.
 
 > ⚠ **Note:** Source code is intentionally omitted.  
-This project is under active academic research and paper preparation.  
+This project is under active academic research and paper preparation. Preprint is now have been posted. 
 The repo contains a overview and prototype images.
-Preprint is now have been posted. 
+
 ---
 
 ##  Key Features
